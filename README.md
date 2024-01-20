@@ -35,12 +35,13 @@ Copy code
 node script.js
 
 ## Usage
-Follow the prompts to sign up or log in.
-Browse the catalog and enter the corresponding number to add items to your cart.
-Specify the quantity of each item you want to purchase.
-Continue shopping or complete the purchase.
-View your final invoice.
-Contributing
+- Follow the prompts to sign up or log in.
+- Browse the catalog and enter the corresponding number to add items to your cart.
+- Specify the quantity of each item you want to purchase.
+- Continue shopping or complete the purchase.
+- View your final invoice.
+
+## Contributing
 Contributions are welcome! Please follow the CONTRIBUTING.md guidelines.
 
 ## License
